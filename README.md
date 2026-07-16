@@ -7,5 +7,6 @@ This introductory data science course provides a comprehensive foundation in sta
 ## Course Information
 **Lectures:** Tuesdays and Thursdays, 11:30am - 12:50pm in [RCH](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/jr-coutts-engineering-lecture-hall-rch) 112\
 **Tutorials:** Fridays, 9:30am - 10:30am in [MC](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-and-computer-mc) 2054\
-**Office Hours:** TBD\
-**Instructor:** [Nathaniel Stevens](https://uwaterloo.ca/statistics-and-actuarial-science/profile/nstevens) (Office: [M3](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-3-m3) 3143, Email: <nstevens@uwaterloo.ca>)
+**Office Hours:** TBD in [M3](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-3-m3) 3143\
+**Instructor:** [Nathaniel Stevens](https://uwaterloo.ca/statistics-and-actuarial-science/profile/nstevens) (he/him/his)\
+**Email:** <nstevens@uwaterloo.ca>
