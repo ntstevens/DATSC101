@@ -12,7 +12,7 @@ This introductory data science course provides a comprehensive foundation in sta
 **Email:** <nstevens@uwaterloo.ca>
 
 ## Textbook
-You will be able to get by in the course using the provided lecture and tutorial material. But in creating this content, I drew on material from several "textbooks". Most of these are not textbooks in the traditional sense; all of them are "open educational resources", with the operative word being "open" (i.e., *free*). While you will not strictly *need* them, you may wish to consult them for additional exposure to various topics. Supplemental (optional) readings will be assigned from some of these sources.
+There is no formal textbook assigned for this course; you'll be able to get by using the provided lecture and tutorial material. That said, when creating this content, I drew on material from several sources, the primary ones listed below. Most of these are not textbooks in the traditional sense; all of them are "open educational resources", with the operative word being "open" (i.e., *free*). While you will not strictly *need* them, you may wish to consult them for additional exposure to various topics. Supplemental (optional) readings will be assigned from some of these sources.
 
 * [*Data Science: A First Introduction with Python*](https://python.datasciencebook.ca/) by Tiffany Timbers, Trevor Campbell, Melissa Lee, Joel Ostblom, Lindsey Heagy 
 * [*Computational and Inferential Thinking: The Foundations of Data Science*](http://inferentialthinking.com/) by Ani Adhikari, John DeNero, David Wagner
