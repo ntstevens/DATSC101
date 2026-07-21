@@ -10,3 +10,14 @@ This introductory data science course provides a comprehensive foundation in sta
 **Office Hours:** TBD in [M3](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-3-m3) 3143\
 **Instructor:** [Nathaniel Stevens](https://uwaterloo.ca/statistics-and-actuarial-science/profile/nstevens) (he/him/his)\
 **Email:** <nstevens@uwaterloo.ca>
+
+## Textbook
+You will be able to get by in the course using the provided lecture and tutorial material. But in creating this content, I drew on material from several "textbooks". Most of these are not textbooks in the traditional sense; all of them are "open educational resources", with the operative word being "open" (i.e., *free*). While you will not strictly *need* them, you may wish to consult them for additional exposure to various topics. Supplemental (optional) readings will be assigned from some of these sources.
+
+* [*Data Science: A First Introduction with Python*](https://python.datasciencebook.ca/) by Tiffany Timbers, Trevor Campbell, Melissa Lee, Joel Ostblom, Lindsey Heagy 
+* [*Computational and Inferential Thinking: The Foundations of Data Science*](http://inferentialthinking.com/) by Ani Adhikari, John DeNero, David Wagner
+* [*Computer Age Statistical Inference: Algorithms, Evidence and Data Science*](https://hastie.su.domains/CASI/) by Bradley Efron and Trevor Hastie
+* [*An Introduction to Statistical Learning with Python*](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
+
+## Python
+Jupytr notebooks via JupytrHub. You (and we) may also make use of ciollaborative notebooks via Google Colab.
