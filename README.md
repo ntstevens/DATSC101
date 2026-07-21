@@ -20,4 +20,4 @@ You will be able to get by in the course using the provided lecture and tutorial
 * [*An Introduction to Statistical Learning with Python*](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
 
 ## Python
-We will interact with Python via *jupyter notebooks* accessed through a browser via [JupyterHub](https://jupyter.math.uwaterloo.ca/hub/login). You (and we) may also make use of collaborative jupyter notebooks via [Google Colab](https://colab.research.google.com/).
+Data science is not done by pencil and paper; it's done on a computer with computer programs. The most common programming language used in data science Python, so that's what we'll be using. In particular, we'll write our Python code in *jupyter notebooks* accessed through a browser via [JupyterHub](https://jupyter.math.uwaterloo.ca/hub/login). You (and we) may also make use of collaborative jupyter notebooks via [Google Colab](https://colab.research.google.com/).
