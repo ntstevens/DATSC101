@@ -20,4 +20,4 @@ You will be able to get by in the course using the provided lecture and tutorial
 * [*An Introduction to Statistical Learning with Python*](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor
 
 ## Python
-Jupytr notebooks via JupytrHub. You (and we) may also make use of ciollaborative notebooks via Google Colab.
+We will interact with Python via *jupyter notebooks* accessed through a browser via [JupyterHub](https://jupyter.math.uwaterloo.ca/hub/login). You (and we) may also make use of collaborative jupyter notebooks via [Google Colab](https://colab.research.google.com/).
