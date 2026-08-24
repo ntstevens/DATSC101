@@ -49,21 +49,25 @@ By the end of this course, students will be able to:
 15.	Collaborate effectively in teams on data analysis projects.
 16.	Gain confidence working with data despite not having prior coding or statistics background.
 
-## Course Topics and Schedule 🗓️
+## Course Topics and (Tentative) Schedule 🗓️
 
 |  | Tuesday | Thursday | Friday |
 |------|-------|----------|--------|
 | **Week 1**<br>Sept 7 - Sept 11 | No Lecture| Introduction   | Tutorial 1  |
-| **Week 2**<br>Sept 14 - Sept 18 | PPDAC and Data Science Workflow  | Exploratory Data Analysis | Tutorial 2  |
+| **Week 2**<br>Sept 14 - Sept 18 | PPDAC & Data Science Workflow  | Exploratory Data Analysis | Tutorial 2  |
 | **Week 3**<br>Sept 21 - Sept 25 | Exploratory Data Analysis | Exploratory Data Analysis | Tutorial 3   |
 | **Week 4**<br>Sept 28 - Oct 2  | Data Visualization | Data Visualization | Tutorial 4  |
 | **Week 5**<br>Oct 5 - Oct 9   | Data Visualization   | Bonus  | Test 1 |
 | **Reading Week**<br>Oct 12 - Oct 16  | No Lecture     | No Lecture  | No Tutorial |
-| **Week 6**<br>Oct 19 - Oct 23 | Estimation and Inference | Estimation and Inference  | Tutorial 5|   
-| **Week 7**<br>Oct 26 - Oct 30  | Randomness and Probability  | Randomness and Probability   | Tutorial 6  |
-| **Week 8**<br>Nov 2 - Nov 6   | Confidence intervals   | Confidence Intervals  | Tutorial 7  |
+| **Week 6**<br>Oct 19 - Oct 23 | Estimation & Inference | Estimation & Inference  | Tutorial 5|   
+| **Week 7**<br>Oct 26 - Oct 30  | Randomness & Probability  | Randomness & Probability   | Tutorial 6  |
+| **Week 8**<br>Nov 2 - Nov 6   | Confidence Intervals   | Confidence Intervals  | Tutorial 7  |
 | **Week 9**<br>Nov 9 - Nov 13   | Hypothesis Testing  | Hypothesis Testing     | Test   2                |
 | **Week 10**<br>Nov 16 - Nov 20  | Predictive Modeling: Regression Problems | Simple Linear Regression  | Tutorial 8   |
-| **Week 11**<br>Nov 23 - Nov 27  | Predictive Modeling: Classification Problems      | Logistic Regression   | Tutorial 9  |
+| **Week 11**<br>Nov 23 - Nov 27  | Predictive Modeling: Classification Problems      | Simple Logistic Regression   | Tutorial 9  |
 | **Week 12**<br>Nov 30 - Dec 4  | Cross Validation    | Unsupervised Learning   | Tutorial 10  |
-| **Week 13**<br>Dec 7 - Dec 11  | Data & AI Ethics | No Lecture | No Tutorial |                                                                                                                                                                                                                               
+| **Week 13**<br>Dec 7 - Dec 11  | Data & AI Ethics | No Lecture | No Tutorial |                                                                    
+
+## Assessment
+
+
