@@ -40,10 +40,12 @@ By the end of this course, students will be able to:
 
 ## Course Topics and (Tentative) Schedule 🗓️
 
-Course content will be delivered via two in-person lectures and one in-person tutorial each week. Lectures and tutorials will consist of me (Nathaniel) teaching via a combination of slides, jupyter notebooks, and other media. You (the students) are expected to actively engage with this, especially in the tutorials which will have dedicated activities where participation is required.
+Course content will be delivered via two in-person lectures (Tuesdays and Thursdays) and one in-person tutorial (Fridays) each week. Lectures and tutorials will consist of me (Nathaniel) teaching via a combination of slides, jupyter notebooks, and other media. You (the students) are expected to actively engage with this, especially in the tutorials which will have dedicated activities where participation is required.
 
 The table below lists the topics we'll be covering each lecture. The topics are set, but the schedule is tentative; we may progress slower (or faster) than originally planned. All relevant lecture and tutorial materials for a given week will be posted on both [LEARN](https://learn.uwaterloo.ca/) and here on Github by the Monday of that week.
 
+<div align="center">
+   
 |  | Tuesday | Thursday | Friday |
 |------|-------|----------|--------|
 | **Week 1**<br>Sept 7 - Sept 11 | No Lecture| Introduction   | Tutorial 1  |
@@ -61,6 +63,8 @@ The table below lists the topics we'll be covering each lecture. The topics are 
 | **Week 12**<br>Nov 30 - Dec 4  | Cross Validation    | Unsupervised Learning   | Tutorial 10  |
 | **Week 13**<br>Dec 7 - Dec 11  | Data & AI Ethics | No Lecture | No Tutorial |                                                                    
 
+</div>
+   
 ## Textbook 📚
 There is no formal textbook assigned for this course; you'll be able to get by using the provided lecture and tutorial material. That said, when creating this content, I drew on material from several sources, the primary ones listed below. Most of these are not textbooks in the traditional sense; all of them are "open educational resources", with the operative word being "open" (i.e., *free*). While you will not strictly *need* them, you may wish to consult them for additional exposure to various topics. Supplemental (optional) readings will be assigned from some of these sources.
 
@@ -73,6 +77,17 @@ There is no formal textbook assigned for this course; you'll be able to get by u
 Data science is not done by pencil and paper; it's done on a computer with computer programs. The most common programming language used today in data science is Python, so that's what we'll be using. In particular, we'll write our Python code in *jupyter notebooks* accessed through a browser via [JupyterHub](https://jupyter.math.uwaterloo.ca/hub/login). You (and we) may also make use of collaborative jupyter notebooks via [Google Colab](https://colab.research.google.com/). These services can be accessed by any device connected to the internet. While access in-class is encouraged, it's not not required. However, access outside of class *is* required. So, if you don't have a tablet, laptop, or personal computer, please make use of the various computer labs on campus. For instance: 🧡[Arts](https://uwaterloo.ca/arts-computing/facilities-and-labs/our-labs), 💜[Engineering](https://uwaterloo.ca/engineering-computing/computer-labs), 💚[Environment](https://uwaterloo.ca/environment-technology-instructional-support/etis-computer-labs), 💙[Science](https://uwaterloo.ca/science-computing/services/science-computer-labs), and 🩷[Math](https://uwaterloo.ca/math-faculty-computing-facility/services/mfcf-computer-labs) all have dedicated computer labs.
 
 ## Assessment 🔍
+
+<div align="center">
+
+| Assessment Type | Weight | 
+|------|:-----:|
+| Case Studies | 15% |
+| Tests | 30% |
+| Tutorials | 15% |
+| Final Exam | 40% |
+
+</div>
 
 **Case Studies (15%)**
 
