@@ -78,9 +78,9 @@ Data science is not done by pencil and paper; it's done on a computer with compu
 
 * There will be three (3) case studies, each worth 5% of your final grade. Think of these as homework assignments, done outside of class. They will involve data analysis, interpretation, communication, and other facets of the data science workflow.
 * You will have two weeks to complete each case study – their release dates will be two weeks ahead of the due dates shown below. You will submit your work electronically via Crowdmark by 5:00PM on the stated due dates. Late submissions will not be accepted.
-    * Case Study 1 Due: Tuesday October 6
-    * Case Study 2 Due: Tuesday November 10
-    * Case Study 3 Due: Tuesday December 8
+    * Case Study 1 Due: **Tuesday October 6**
+    * Case Study 2 Due: **Tuesday November 10**
+    * Case Study 3 Due: **Tuesday December 8**
 * Data Science is a collaborative discipline, so I encourage working together with your peers on these Case Studies. However, what you submit must be your own work; blatant cheating and plagiarism will not be tolerated. Please refer to the "Academic Integrity" section in the Course Outline and familiarize yourself with [Policy 71, Student Discipline](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71) to ensure you are not committing academic misconduct.
 * The use of Generative AI tools (like ChatGPT, DALL-E, Gemini, Claude, CoPilot) **is permitted** on Case Studies. Please refer to the "Generative AI" section in the Course Outline for additional guidance on this point. The Case Studies themselves will also provide detailed instructions on the appropriate use of GenAI.
 
