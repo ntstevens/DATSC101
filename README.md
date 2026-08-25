@@ -42,7 +42,7 @@ By the end of this course, students will be able to:
 
 Course content will be delivered via two in-person lectures and one in-person tutorial each week. Lectures and tutorials will consist of me (Nathaniel) teaching via a combination of slides, jupyter notebooks, and other media. You (the students) are expected to actively engage with this, especially in the tutorials which will have dedicated activities where participation is required.
 
-The table below lists the topics we'll be covering each lecture. The topics are set, but the schedule is tentative; we may progress slower (or faster) than originally planned. All relevant lecture and tutorial materials for a given week will be posted on both [LEARN}(https://learn.uwaterloo.ca/) and here on Github by the Monday of that week.
+The table below lists the topics we'll be covering each lecture. The topics are set, but the schedule is tentative; we may progress slower (or faster) than originally planned. All relevant lecture and tutorial materials for a given week will be posted on both [LEARN](https://learn.uwaterloo.ca/) and here on Github by the Monday of that week.
 
 |  | Tuesday | Thursday | Friday |
 |------|-------|----------|--------|
@@ -72,7 +72,7 @@ There is no formal textbook assigned for this course; you'll be able to get by u
 ## Python 🐍
 Data science is not done by pencil and paper; it's done on a computer with computer programs. The most common programming language used today in data science is Python, so that's what we'll be using. In particular, we'll write our Python code in *jupyter notebooks* accessed through a browser via [JupyterHub](https://jupyter.math.uwaterloo.ca/hub/login). You (and we) may also make use of collaborative jupyter notebooks via [Google Colab](https://colab.research.google.com/). These services can be accessed by any device connected to the internet. While access in-class is encouraged, it's not not required. However, access outside of class *is* required. So, if you don't have a tablet, laptop, or personal computer, please make use of the various computer labs on campus. For instance: 🧡[Arts](https://uwaterloo.ca/arts-computing/facilities-and-labs/our-labs), 💜[Engineering](https://uwaterloo.ca/engineering-computing/computer-labs), 💚[Environment](https://uwaterloo.ca/environment-technology-instructional-support/etis-computer-labs), 💙[Science](https://uwaterloo.ca/science-computing/services/science-computer-labs), and 🩷[Math](https://uwaterloo.ca/math-faculty-computing-facility/services/mfcf-computer-labs) all have dedicated computer labs.
 
-## Assessment
+## Assessment 🔍
 
 **Case Studies (15%)**
 
@@ -81,8 +81,8 @@ Data science is not done by pencil and paper; it's done on a computer with compu
     * Case Study 1 Due: Tuesday October 6
     * Case Study 2 Due: Tuesday November 10
     * Case Study 3 Due: Tuesday December 8
-* Data Science is a collaborative discipline, so I encourage working together with your peers on these Case Studies. However, what you submit must be your own work; blatant cheating and plagiarism will not be tolerated. Please refer to the "Academic Integrity" section below and familiarize yourself with [Policy 71, Student Discipline](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71) to ensure you are not committing academic misconduct.
-* The use of Generative AI tools (like ChatGPT, DALL-E, Gemini, Claude, CoPilot) **is permitted** on Case Studies. Please refer to the "Generative AI" section below for additional guidance on this point. The Case Studies themselves will also provide detailed instructions on the appropriate use of GenAI.
+* Data Science is a collaborative discipline, so I encourage working together with your peers on these Case Studies. However, what you submit must be your own work; blatant cheating and plagiarism will not be tolerated. Please refer to the "Academic Integrity" section in the Course Outline and familiarize yourself with [Policy 71, Student Discipline](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71) to ensure you are not committing academic misconduct.
+* The use of Generative AI tools (like ChatGPT, DALL-E, Gemini, Claude, CoPilot) **is permitted** on Case Studies. Please refer to the "Generative AI" section in the Course Outline for additional guidance on this point. The Case Studies themselves will also provide detailed instructions on the appropriate use of GenAI.
 
 **Tests (30%)**
 
@@ -104,7 +104,7 @@ Data science is not done by pencil and paper; it's done on a computer with compu
 * If you have a dispute with your grade on a Case Study or Test, you may request a remark within 1 week of the assessment being returned to you. Bear in mind that the entire assessment is then subject to be remarked. Remark requests must be directed to our course’s Teaching Assistant.
 * If you would like to review your Final Exam once final grades have been released, you can schedule an appointment with me by emailing [nstevens@uwaterloo.ca](nstevens@uwaterloo.ca).
 
-## Absence Accommodation
+## Absence Accommodation 🤝
 
 Throughout the term, you may encounter situations such as significant illnesses, ongoing medical conditions, or other circumstances that prevent you from meeting academic obligations. In such cases, you may choose to declare an absence and may seek accommodation. Permissible absences include:
 
