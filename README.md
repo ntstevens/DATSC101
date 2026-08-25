@@ -134,5 +134,5 @@ All such absences must declared in the [Absence Database](https://uwaterloo.ca/m
 
 * If you miss the Final Exam with a verified absence in the Absence Database, you may be assigned a final grade of “incomplete” ([INC](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/policy/rkrb6r5V6?bc=true&bcCurrent=Grading%20Systems%20and%20Processes&bcGroup=Academic%20Regulations&bcItemType=policies)), and your Final Exam deferred to a later date, if:
     * it is mathematically possible for you to pass the course, had you written the Final Exam, AND
-    * you demonstrated _meaning engagement_ with the course, defined here to mean: your grade going into the Final Exam is more than 0%.
+    * you demonstrated _meaningful engagement_ with the course, defined here to mean: your grade going into the Final Exam is more than 0%.
 * If you miss the Final Exam and your absence is not approved, you will be assigned a final grade of “did not write” ([DNW](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/policy/rkrb6r5V6?bc=true&bcCurrent=Grading%20Systems%20and%20Processes&bcGroup=Academic%20Regulations&bcItemType=policies)), which counts as a final grade of 32 in transcript averages.
