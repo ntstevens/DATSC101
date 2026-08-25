@@ -2,9 +2,9 @@
 Welcome to *Data Science 101*. Consider this the homepage for the course; all of the course content can be found here. Below you will find administrative information, all of which can also be found in the formal [course outline](https://outline.uwaterloo.ca/). The many folders in this repository also contain the materials you'll need for lectures, tutorials, assignments, and more.
 
 ## Course Information ℹ️
-**Lectures:** Tuesdays and Thursdays, 11:30am - 12:50pm in [RCH](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/jr-coutts-engineering-lecture-hall-rch) 112\
-**Tutorials:** Fridays, 9:30am - 10:30am in [MC](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-and-computer-mc) 2054\
-**Office Hours:** Wednesdays, 9:00am - 11:00am in [M3](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-3-m3) 3143\
+**Lectures:** Tuesdays and Thursdays, 11:30AM - 12:50PM in [RCH](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/jr-coutts-engineering-lecture-hall-rch) 112\
+**Tutorials:** Fridays, 9:30AM - 10:30AM in [MC](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-and-computer-mc) 2054\
+**Office Hours:** Wednesdays, 9:00AM - 11:00AM in [M3](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-3-m3) 3143\
 **Instructor:** [Nathaniel Stevens](https://uwaterloo.ca/statistics-and-actuarial-science/profile/nstevens) (he/him/his)\
 **Email:** <nstevens@uwaterloo.ca>
 
@@ -77,7 +77,7 @@ Data science is not done by pencil and paper; it's done on a computer with compu
 **Case Studies (15%)**
 
 * There will be three (3) case studies, each worth 5% of your final grade. Think of these as homework assignments, done outside of class. They will involve data analysis, interpretation, communication, and other facets of the data science workflow.
-* You will have two weeks to complete each case study – their release dates will be two weeks ahead of the due dates shown below. You will submit your work electronically via Crowdmark by 5:00pm ET on the stated due dates. Late submissions will not be accepted.
+* You will have two weeks to complete each case study – their release dates will be two weeks ahead of the due dates shown below. You will submit your work electronically via Crowdmark by 5:00PM on the stated due dates. Late submissions will not be accepted.
     * Case Study 1 Due: Tuesday October 6
     * Case Study 2 Due: Tuesday November 10
     * Case Study 3 Due: Tuesday December 8
