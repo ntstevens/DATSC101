@@ -74,4 +74,65 @@ Data science is not done by pencil and paper; it's done on a computer with compu
 
 ## Assessment
 
+**Case Studies (15%)**
 
+* There will be three (3) case studies, each worth 5% of your final grade. Think of these as homework assignments, done outside of class. They will involve data analysis, interpretation, communication, and other facets of the data science workflow.
+* You will have two weeks to complete each case study – their release dates will be two weeks ahead of the due dates shown below. You will submit your work electronically via Crowdmark by 5:00pm ET on the stated due dates. Late submissions will not be accepted.
+    * Case Study 1 Due: Tuesday October 6
+    * Case Study 2 Due: Tuesday November 10
+    * Case Study 3 Due: Tuesday December 8
+* Data Science is a collaborative discipline, so I encourage working together with your peers on these Case Studies. However, what you submit must be your own work; blatant cheating and plagiarism will not be tolerated. Please refer to the "Academic Integrity" section below and familiarize yourself with [Policy 71, Student Discipline](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71) to ensure you are not committing academic misconduct.
+* The use of Generative AI tools (like ChatGPT, DALL-E, Gemini, Claude, CoPilot) **is permitted** on Case Studies. Please refer to the "Generative AI" section below for additional guidance on this point. The Case Studies themselves will also provide detailed instructions on the appropriate use of GenAI.
+
+**Tests (30%)**
+
+* There will be two (2) closed-book tests, each worth 15% of your final grade, held on **Friday October 9** and **Friday November 13**.
+* Each test is 50 minutes in duration, running between 9:30AM - 10:20AM during that week’s Tutorial time slot. Seating will be assigned with specific locations communicated closer to the tests.
+* The tests will evaluate your comprehension of the course material and will consist of a combination of multiple choice questions, small calculations, short answer written responses, python code interpretation, and analysis output interpretation.
+
+**Tutorials (15%)**
+
+* In every Tutorial session not devoted to a test, we will have in-person activities. Participation in each of these ten (10) Tutorials will earn you 1.5% each.
+
+**Final Exam (40%)**
+
+* There will be a 2.5-hour, closed-book, cumulative Final Exam during the Fall 2026 Final Examination Period: **December 10 – December 23**. Please refrain from booking end-of-term travel before the actual exam date is scheduled.
+* The format of the Final Exam will mimic that of the two Tests. Specifically, multiple choice questions, small calculations, short answer written responses, python code interpretation, and analysis output interpretation can all be expected.
+
+**Remark Policy:**
+
+* If you have a dispute with your grade on a Case Study or Test, you may request a remark within 1 week of the assessment being returned to you. Bear in mind that the entire assessment is then subject to be remarked. Remark requests must be directed to our course’s Teaching Assistant.
+* If you would like to review your Final Exam once final grades have been released, you can schedule an appointment with me by emailing [nstevens@uwaterloo.ca](nstevens@uwaterloo.ca).
+
+## Absence Accommodation
+
+Throughout the term, you may encounter situations such as significant illnesses, ongoing medical conditions, or other circumstances that prevent you from meeting academic obligations. In such cases, you may choose to declare an absence and may seek accommodation. Permissible absences include:
+
+* _Short-term absence_ - two (2) days, no documentation required, 1 per lecture period, declared within 48 hours of missed assessment 
+* _Religious or creed-related absence_ - no documentation required, during lecture period, declared within the first two weeks of class
+* _Verification of Condition_ - documentation required, will be reviewed prior to approval, declared within 48 hours of missed assessment
+* _Extenuating circumstances_ - documentation required, will be reviewed prior to approval, declared within 48 hours of missed assessment
+
+All such absences must declared in the [Absence Database](https://uwaterloo.ca/math/submitting-absence-declaration). It is your responsibility to refer to the Faculty of Mathematics [Absence Declarations webpage](https://uwaterloo.ca/math/absence-declarations) to ensure you comply with the declaration requirements.
+
+**Accommodation for Missed Case Studies**
+
+* If you have declared a short-term absence in the Absence Database that spans the Case Study deadline, a 48-hour extension will be provided.
+* If you have declared any other type of absence in the Absence Database that spans the Case Study deadline, the weight from that Case Study will be shifted to the Final Exam.
+* If you have not declared an absence in the Absence Database, you will receive a zero for your missed Case Study.
+
+**Accommodation for Missed Tests**
+
+* If you have declared any absence in the Absence Database that spans the Test date, the weight from that Test will be shifted to the Final Exam.
+* If you have not declared an absence in the Absence Database, you will receive a zero for your missed Test.
+
+**Accommodation for Missed Tutorials**
+
+* There will be no accommodation for missed Tutorials. For any missed Tutorial, you will not receive the associated 1.5%.
+
+**Accommodation for Missed Final Exam**
+
+* If you miss the Final Exam with a verified absence in the Absence Database, you may be assigned a final grade of “incomplete” ([INC](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/policy/rkrb6r5V6?bc=true&bcCurrent=Grading%20Systems%20and%20Processes&bcGroup=Academic%20Regulations&bcItemType=policies)), and your Final Exam deferred to a later date, if:
+    * it is mathematically possible for you to pass the course, had you written the Final Exam, AND
+    * you demonstrated _meaning engagement_ with the course, defined here to mean: your grade going into the Final Exam is more than 0%.
+* If you miss the Final Exam and your absence is not approved, you will be assigned a final grade of “did not write” ([DNW](https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/policy/rkrb6r5V6?bc=true&bcCurrent=Grading%20Systems%20and%20Processes&bcGroup=Academic%20Regulations&bcItemType=policies)), which counts as a final grade of 32 in transcript averages.
