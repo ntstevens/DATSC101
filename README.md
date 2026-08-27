@@ -1,5 +1,5 @@
 # DATSC101: Introduction to Data Science
-Welcome to *Data Science 101*. Consider this the homepage for the course; all of the course content can be found here. Below you will find administrative information, all of which can also be found in the formal [course outline](https://outline.uwaterloo.ca/). The many folders in this repository also contain the materials you'll need for lectures, tutorials, assignments, and more.
+Welcome to *Data Science 101*. Consider this the homepage for the course; all of the course content can be found here. Below you will find administrative information, all of which can also be found in the formal [course outline]([https://outline.uwaterloo.ca/](https://outline.uwaterloo.ca/viewer/view/nn8472)). The many folders in this repository also contain the materials you'll need for lectures, tutorials, assignments, and more.
 
 ## Course Information ℹ️
 **Lectures:** Tuesdays and Thursdays, 11:30AM - 12:50PM in [RCH](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/jr-coutts-engineering-lecture-hall-rch) 112\
