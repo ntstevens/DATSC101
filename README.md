@@ -58,8 +58,8 @@ The table below lists the topics we'll be covering each lecture. The topics are 
 | **Week 7**<br>Oct 26 - Oct 30  | Randomness & Probability  | Randomness & Probability   | Tutorial 6  |
 | **Week 8**<br>Nov 2 - Nov 6   | Confidence Intervals   | Confidence Intervals  | Tutorial 7  |
 | **Week 9**<br>Nov 9 - Nov 13   | Hypothesis Testing  | Hypothesis Testing     | Test   2                |
-| **Week 10**<br>Nov 16 - Nov 20  | Predictive Modeling: Regression Problems | Simple Linear Regression  | Tutorial 8   |
-| **Week 11**<br>Nov 23 - Nov 27  | Predictive Modeling: Classification Problems      | Simple Logistic Regression   | Tutorial 9  |
+| **Week 10**<br>Nov 16 - Nov 20  | Predictive Modeling: Numerical Prediction | Simple Linear Regression  | Tutorial 8   |
+| **Week 11**<br>Nov 23 - Nov 27  | Predictive Modeling: Classification      | Simple Logistic Regression   | Tutorial 9  |
 | **Week 12**<br>Nov 30 - Dec 4  | Cross Validation    | Unsupervised Learning   | Tutorial 10  |
 | **Week 13**<br>Dec 7 - Dec 11  | Data & AI Ethics | No Lecture | No Tutorial |                                                                    
 
