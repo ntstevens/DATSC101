@@ -48,7 +48,7 @@ The table below lists the topics we'll be covering each lecture. The topics are 
    
 |  | Tuesday | Thursday | Friday |
 |------|-------|----------|--------|
-| **Week 1**<br>Sept 7 - Sept 11 | No Lecture| Introduction   | Tutorial 1  |
+| **Week 1**<br>Sept 7 - Sept 11 | No Lecture| Introduction   | [Tutorial 1](https://github.com/ntstevens/DATSC101/blob/895fbe54cf733e53601bba6992e433707e1f28a1/Tutorials/Tutorial%201.ipynb)  |
 | **Week 2**<br>Sept 14 - Sept 18 | PPDAC & Data Science Workflow  | Exploratory Data Analysis | Tutorial 2  |
 | **Week 3**<br>Sept 21 - Sept 25 | Exploratory Data Analysis | Exploratory Data Analysis | Tutorial 3   |
 | **Week 4**<br>Sept 28 - Oct 2  | Data Visualization | Data Visualization | Tutorial 4  |
