@@ -42,7 +42,7 @@ By the end of this course, students will be able to:
 
 Course content will be delivered via two in-person lectures (Tuesdays and Thursdays) and one in-person tutorial (Fridays) each week. Lectures and tutorials will consist of me (Nathaniel) teaching via a combination of slides, jupyter notebooks, and other media. You (the students) are expected to actively engage with this, especially in the tutorials which will have dedicated activities where participation is required.
 
-The table below lists the topics we'll be covering each lecture. The topics are set, but the schedule is tentative; we may progress slower (or faster) than originally planned. All relevant lecture and tutorial materials for a given week will be posted on both [LEARN](https://learn.uwaterloo.ca/) and here on Github by the Monday of that week.
+The table below lists the topics we'll be covering each lecture. The topics are set, but the schedule is tentative; we may progress slower (or faster) than originally planned. All relevant lecture and tutorial materials will be posted on both [LEARN](https://learn.uwaterloo.ca/) and here on Github by night before the given lecture/tutorial.
 
 <div align="center">
    
