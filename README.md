@@ -49,7 +49,7 @@ The table below lists the topics we'll be covering each lecture. The topics are 
 |  | Tuesday | Thursday | Friday |
 |------|-------|----------|--------|
 | **Week 1**<br>Sept 7 - Sept 11 | No Lecture| [Introduction](https://github.com/ntstevens/DATSC101/blob/c740c5d3f994d7ca30a497b9806e81b7223f549d/Lectures/Introduction.ipynb)   | [Tutorial 1](https://github.com/ntstevens/DATSC101/blob/009a51b2783a827ec885f464de7fde553969a065/Tutorials/Tutorial%201.ipynb)  |
-| **Week 2**<br>Sept 14 - Sept 18 | [Data-Driven Problem Solving (Part 1)](https://github.com/ntstevens/DATSC101/blob/2717267e2cc11f5e04f7b16ba097fcbcda2a0dc9/Lectures/Data-Driven%20Problem%20Solving%20(Part%201).ipynb)  | Data-Driven Problem Solving (Part 2) | [Tutorial 2](https://github.com/ntstevens/DATSC101/blob/c2d4a85eb59b1b9c0b12948d76502f25914874df/Tutorials/Tutorial%202.ipynb)  |
+| **Week 2**<br>Sept 14 - Sept 18 | [Data-Driven Problem Solving (Part 1)](https://github.com/ntstevens/DATSC101/blob/2717267e2cc11f5e04f7b16ba097fcbcda2a0dc9/Lectures/Data-Driven%20Problem%20Solving%20(Part%201).ipynb)  | Data-Driven Problem Solving (Part 2) | [Tutorial 2](https://github.com/ntstevens/DATSC101/blob/8cd772ab3ee8bc2e35bad19dce403d869252daf4/Tutorials/Tutorial%202.ipynb)  |
 | **Week 3**<br>Sept 21 - Sept 25 | Exploratory Data Analysis | Exploratory Data Analysis | Tutorial 3   |
 | **Week 4**<br>Sept 28 - Oct 2  | Exploratory Data Analysis | Data Visualization | Tutorial 4  |
 | **Week 5**<br>Oct 5 - Oct 9   | Data Visualization   | Data Visualization  | Test 1 |
