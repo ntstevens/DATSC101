@@ -4,7 +4,7 @@ Welcome to *Data Science 101*. Consider this the homepage for the course; all of
 ## Course Information ℹ️
 **Lectures:** Tuesdays and Thursdays, 11:30AM - 12:50PM in [RCH](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/jr-coutts-engineering-lecture-hall-rch) 112\
 **Tutorials:** Fridays, 9:30AM - 10:30AM in [MC](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-and-computer-mc) 2054\
-**Office Hours:** Wednesdays, 9:00AM - 11:00AM in [M3](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-3-m3) 3143\
+**Office Hours:** Tuesdays and Thursdays, 1:00PM - 2:30PM in [M3](https://uwaterloo.ca/accessibility/getting-around/building-accessibility/mathematics-3-m3) 3143\
 **Instructor:** [Nathaniel Stevens](https://uwaterloo.ca/statistics-and-actuarial-science/profile/nstevens) (he/him/his)\
 **Email:** <nstevens@uwaterloo.ca>
 
