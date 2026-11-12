@@ -58,9 +58,9 @@ The table below lists the topics we'll be covering each lecture. The topics are 
 | **Week 7**<br>Oct 26 - Oct 30  | [Estimation and Inference](https://github.com/ntstevens/DATSC101/blob/main/Lectures/4-Estimation%20and%20Inference.ipynb)  | [Randomness and Probability](https://github.com/ntstevens/DATSC101/blob/main/Lectures/5-Randomness%20and%20Probability.ipynb)   | [Tutorial 6](https://github.com/ntstevens/DATSC101/blob/main/Tutorials/Tutorial%206.ipynb)  |
 | **Week 8**<br>Nov 2 - Nov 6   | [Randomness and Probability](https://github.com/ntstevens/DATSC101/blob/main/Lectures/5-Randomness%20and%20Probability.ipynb)    | [Confidence Intervals](https://github.com/ntstevens/DATSC101/blob/main/Lectures/6-Confidence%20Intervals.ipynb)  | [Tutorial 7](https://github.com/ntstevens/DATSC101/blob/main/Tutorials/Tutorial%207.ipynb)  |
 | **Week 9**<br>Nov 9 - Nov 13   | [Confidence Intervals](https://github.com/ntstevens/DATSC101/blob/main/Lectures/6-Confidence%20Intervals.ipynb)   | [Hypothesis Testing](https://github.com/ntstevens/DATSC101/blob/main/Lectures/7-Hypothesis%20Testing.ipynb)     | Test   2                |
-| **Week 10**<br>Nov 16 - Nov 20  | Predictive Modeling: Numerical Prediction | Simple Linear Regression  | Tutorial 8   |
-| **Week 11**<br>Nov 23 - Nov 27  | Predictive Modeling: Classification      | Simple Logistic Regression   | Tutorial 9  |
-| **Week 12**<br>Nov 30 - Dec 4  | Cross Validation    | Unsupervised Learning   | Tutorial 10  |
+| **Week 10**<br>Nov 16 - Nov 20  | [Hypothesis Testing](https://github.com/ntstevens/DATSC101/blob/main/Lectures/7-Hypothesis%20Testing.ipynb)  | Predictive Modeling: Numerical Prediction  | Tutorial 8   |
+| **Week 11**<br>Nov 23 - Nov 27  | Simple Linear Regression      | Predictive Modeling: Classification   | Tutorial 9  |
+| **Week 12**<br>Nov 30 - Dec 4  |  Simple Logistic Regression   | Cross Validation   | Tutorial 10  |
 | **Week 13**<br>Dec 7 - Dec 11  | Data & AI Ethics | No Lecture | No Tutorial |                                                                    
 
 </div>
